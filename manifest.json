@@ -1,41 +1,41 @@
 {
   "format": 1,
-  "project": "Three songs — KAP+",
-  "buildId": "c44143dafd5d0780",
-  "sourceSha256": "c44143dafd5d07804a2b3834ab1250c5e63de6f550e0c3f7e5d05f84ac537ae0",
-  "sourceBytes": 20337808,
-  "bootstrapBytes": 3221,
+  "project": "Asset Demo",
+  "buildId": "1e2686056941d8e5",
+  "sourceSha256": "1e2686056941d8e554efca68a0945126b40450d916e364463bdffeb3196f9a48",
+  "sourceBytes": 9107372,
+  "bootstrapBytes": 3044,
   "chunkCount": 6,
   "chunks": [
     {
-      "file": "chunks/c44143dafd5d0780/chunk-0.js",
-      "bytes": 3389927,
-      "sha256": "8b8c40dc41dba57a5e691bc14b0f8962dfbd8bd5816f769fe7261f8c204dda05"
+      "file": "chunks/1e2686056941d8e5/chunk-0.js",
+      "bytes": 1518204,
+      "sha256": "de27a59ca14b675a96fe65756443de84d263c1ae8337cb9075fa3ad9cdefdc70"
     },
     {
-      "file": "chunks/c44143dafd5d0780/chunk-1.js",
-      "bytes": 3389829,
-      "sha256": "e825a57ac0615956453f2e9e90562a497a6269fbf067d5ec019ca6a8b1d79130"
+      "file": "chunks/1e2686056941d8e5/chunk-1.js",
+      "bytes": 1518082,
+      "sha256": "d566ac6fdd896917b203896f278b9007538b8dfdceb6d1f0c283e2fbb62e979f"
     },
     {
-      "file": "chunks/c44143dafd5d0780/chunk-2.js",
-      "bytes": 3389826,
-      "sha256": "fb23faff655930059b651aea1e55fd56bdb30b9ffb8ec4eec2175e9d47481917"
+      "file": "chunks/1e2686056941d8e5/chunk-2.js",
+      "bytes": 1518085,
+      "sha256": "b0ef13fb719d520794ccb18f39b81d84e3362cd561d43908be64eead4d78bc89"
     },
     {
-      "file": "chunks/c44143dafd5d0780/chunk-3.js",
-      "bytes": 3389824,
-      "sha256": "aae64fc6305d34e9125fd368d36a06ebc48bfe71b2afbb3df60490ea600e72cd"
+      "file": "chunks/1e2686056941d8e5/chunk-3.js",
+      "bytes": 1518082,
+      "sha256": "57a6a6d4b529257653d0351843c928446ee99a5c468bca32b3354ac688ea77ea"
     },
     {
-      "file": "chunks/c44143dafd5d0780/chunk-4.js",
-      "bytes": 3389824,
-      "sha256": "752be3e4a2edf60b2315e4c8d266f781d979640e34a21f84d508c5d79dd47904"
+      "file": "chunks/1e2686056941d8e5/chunk-4.js",
+      "bytes": 1518085,
+      "sha256": "bcf9403a8380704e765af9667a915f62968aeb851d5a45d944d9a8390edf4080"
     },
     {
-      "file": "chunks/c44143dafd5d0780/chunk-5.js",
-      "bytes": 3389850,
-      "sha256": "a7dc2999d543d64902c8f9bc36c0867d883eb7974909d7385ea1f04d691dc76e"
+      "file": "chunks/1e2686056941d8e5/chunk-5.js",
+      "bytes": 1518106,
+      "sha256": "3cd33a19fb4eacde96c3e1404d748f0a4910a314d5ecd6439411cd69ae1f1c94"
     }
   ]
 }
