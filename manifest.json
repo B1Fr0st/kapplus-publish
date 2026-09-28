@@ -1,0 +1,30 @@
+{
+  "format": 1,
+  "buildId": "4daf003314327be6",
+  "sourceSha256": "4daf003314327be651261b29ea1d426f6d969e760c4cd350477ee1505a3bbae6",
+  "sourceBytes": 924175,
+  "bootstrapBytes": 1889,
+  "chunkCount": 4,
+  "chunks": [
+    {
+      "file": "chunks/4daf003314327be6/chunk-0.js",
+      "bytes": 231339,
+      "sha256": "6a2ba63268ee2fe6f5c397652aa90967981a5755460cd4c5b03ffb86667df05a"
+    },
+    {
+      "file": "chunks/4daf003314327be6/chunk-1.js",
+      "bytes": 231228,
+      "sha256": "30346859cf990eb77cc2a92fcac39e44fbda5460adbd16976b4ccda0b4a68cc3"
+    },
+    {
+      "file": "chunks/4daf003314327be6/chunk-2.js",
+      "bytes": 231228,
+      "sha256": "df4b1549b9a37efc31585cbca2fad51514e92206e8c28c23dca94da710ea6049"
+    },
+    {
+      "file": "chunks/4daf003314327be6/chunk-3.js",
+      "bytes": 231254,
+      "sha256": "71301c090a509cdabc066044ee33efa1f7199d8a67d4652ac586ca1a4f106c44"
+    }
+  ]
+}
