@@ -7,7 +7,7 @@ the ProcessingJS instance.
 
 - Build ID: `4daf003314327be6`
 - Original Khan source: 924,175 bytes
-- Khan bootstrap: 2,009 bytes
+- Khan bootstrap: 2,085 bytes
 - Source SHA-256: `4daf003314327be651261b29ea1d426f6d969e760c4cd350477ee1505a3bbae6`
 
 The bootstrap URLs are pinned to a Git commit, so later repository changes cannot
