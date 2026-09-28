@@ -1,9 +1,9 @@
-# Asset Demo
+# KAP+ Rendering Benchmark
 
 Published by KAP+. Paste `program.js` into Khan Academy; it loads the immutable,
 content-addressed JavaScript chunks through jsDelivr.
 
-- Build ID: `3829a46eb5b4954d`
-- Original Khan source: 9,107,372 bytes
-- Khan bootstrap: 3,224 bytes
-- Source SHA-256: `3829a46eb5b4954d5ef2938e7dd4fc7631e0c1666d44101611fe05894ec68364`
+- Build ID: `c94a471cbfff319a`
+- Original Khan source: 1,403,138 bytes
+- Khan bootstrap: 3,041 bytes
+- Source SHA-256: `c94a471cbfff319ad29419cf5489b480f1d4175c71080e072b1cf6e810cd35fc`
