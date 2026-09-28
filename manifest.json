@@ -1,41 +1,41 @@
 {
   "format": 1,
   "project": "KAP+ Rendering Benchmark",
-  "buildId": "c94a471cbfff319a",
-  "sourceSha256": "c94a471cbfff319ad29419cf5489b480f1d4175c71080e072b1cf6e810cd35fc",
-  "sourceBytes": 1403138,
-  "bootstrapBytes": 3221,
+  "buildId": "5d21754da2829f8d",
+  "sourceSha256": "5d21754da2829f8d66a1e5691caa1d7fbfde7e27a2c5262cfd8acf2fd6a365cc",
+  "sourceBytes": 1403436,
+  "bootstrapBytes": 3044,
   "chunkCount": 6,
   "chunks": [
     {
-      "file": "chunks/c94a471cbfff319a/chunk-0.js",
-      "bytes": 234129,
-      "sha256": "45292422d07a4a7bcf29e0935d8d4e925af708a9ccf8cc40583c65fef61d88a3"
+      "file": "chunks/5d21754da2829f8d/chunk-0.js",
+      "bytes": 234179,
+      "sha256": "97877c7ab99f08ffc9fc13e3287c4b3d27220aa0b8f6265a3418c9fcc6618ca5"
     },
     {
-      "file": "chunks/c94a471cbfff319a/chunk-1.js",
-      "bytes": 234050,
-      "sha256": "74dd540dae958641ce090d8a44333cdaeb6d795e717b8f1b0fd43837cc66b7d5"
+      "file": "chunks/5d21754da2829f8d/chunk-1.js",
+      "bytes": 234100,
+      "sha256": "2bafae30967c867ca0d567c4e6fd765908172177340dbf35546b065e19e36be0"
     },
     {
-      "file": "chunks/c94a471cbfff319a/chunk-2.js",
-      "bytes": 234041,
-      "sha256": "4440d04f2b53f7dce9175b43719a584fd3873f5350996e59167dc50b99475b54"
+      "file": "chunks/5d21754da2829f8d/chunk-2.js",
+      "bytes": 234090,
+      "sha256": "2335afefede90c37afbe9011a411dfd773d32a8ea309226126c47adb0f0997b2"
     },
     {
-      "file": "chunks/c94a471cbfff319a/chunk-3.js",
-      "bytes": 234040,
-      "sha256": "1d2df6f1dacf479b8bb9550c407d3b61a11d7900fdc30f25810f400c25898aea"
+      "file": "chunks/5d21754da2829f8d/chunk-3.js",
+      "bytes": 234090,
+      "sha256": "cd0241811f2a685c11d714f477e9c0e11710815a5ab29e51d14577e7c624c65b"
     },
     {
-      "file": "chunks/c94a471cbfff319a/chunk-4.js",
-      "bytes": 234040,
-      "sha256": "118e81681d056e463c7a9ef57e97ce40a21aae601618c13f91171a90f66283f8"
+      "file": "chunks/5d21754da2829f8d/chunk-4.js",
+      "bytes": 234090,
+      "sha256": "7e79e53b70bd2632bd7e8399b617608949f03d97735bd7b46a2b08f1ddcb6f2d"
     },
     {
-      "file": "chunks/c94a471cbfff319a/chunk-5.js",
-      "bytes": 234111,
-      "sha256": "f29b5699ea3f715978faa23110487a87c82b162badfb9b9ad0367493049d4e5a"
+      "file": "chunks/5d21754da2829f8d/chunk-5.js",
+      "bytes": 234168,
+      "sha256": "817bce90851fb49e3e77390e7a2d7be7dc13ea43cd4352ce6dce68f4fb577175"
     }
   ]
 }
