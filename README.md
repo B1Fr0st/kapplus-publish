@@ -1,14 +1,9 @@
-# KAP+ publish proof of concept
+# Three songs — KAP+
 
-This repository contains an exact four-chunk split of the KAP+ asset demo. The small
-`program.js` bootstrap is pasted into Khan Academy. It loads the immutable JavaScript
-chunks through jsDelivr, reconstructs the verified program source, and executes it in
-the ProcessingJS instance.
+Published by KAP+. Paste `program.js` into Khan Academy; it loads the immutable,
+content-addressed JavaScript chunks through jsDelivr.
 
-- Build ID: `df5c44c0f2039ffa`
-- Original Khan source: 1,102,501 bytes
-- Khan bootstrap: 2,961 bytes
-- Source SHA-256: `df5c44c0f2039ffa2424350580de504abfcd993b5a1ef39749ccb2505b60abd4`
-
-The bootstrap URLs are pinned to a Git commit, so later repository changes cannot
-silently alter a published Khan program.
+- Build ID: `eddb1e1524f90e81`
+- Original Khan source: 2,901,718 bytes
+- Khan bootstrap: 3,041 bytes
+- Source SHA-256: `eddb1e1524f90e81474e9c32f34e8172028580425c357207d12ec7e08d8a017a`
